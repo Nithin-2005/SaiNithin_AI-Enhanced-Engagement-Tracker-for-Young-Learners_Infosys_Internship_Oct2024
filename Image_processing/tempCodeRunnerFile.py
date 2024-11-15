@@ -1,0 +1,1 @@
+"C:/Users/nithi/OneDrive/Desktop/Infosys Springboard/Infosys Springboard/Image_processing/image2.jpg"
